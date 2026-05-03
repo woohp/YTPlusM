@@ -128,6 +128,10 @@ First release, added YTweaks, Gonerino and YouSpeed injectable
    <li><strong>Latest confirmed:</strong> <em>21.13.6</em></li>
    <li><strong>Date tested:</strong> <em>Apr 1, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
+
+   <li><strong>Latest confirmed:</strong> <em>21.17.3</em></li>
+   <li><strong>Date tested:</strong> <em>May 1, 2026</em></li>
+   <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>
 <strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.1.2">YTPlusM-DIY-5.1.2 repo</a> to build YTPlusM with newest yt versions⚠️</strong>
 
