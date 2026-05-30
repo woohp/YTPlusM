@@ -150,8 +150,8 @@ Added VolumeBoostYT and YouGetCaption
 <ul>
    <li><strong>Latest confirmed:</strong> <em>20.21.6</em></li>
    <li><strong>Date tested:</strong> <em>Apr 12 2026</em></li>
-   <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
-   View <a href="https://github.com/Mark02-2012/YTPlus_by_Mark02/releases/tag/5.2b4_20.21.6">this release (YouTube Plus)</a> and <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_20.21.6(54)">this release (YTPlusM)
+   <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
+   View <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_20.21.6(88)">this release (YouTube Plus)</a> and <a href="https://github.com/Mark02-2012/YTPlusM/releases/tag/5.2.1_20.21.6(54)">this release (YTPlusM)
 </ul>
 
 ## Tweak Integration Details
