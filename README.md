@@ -1,8 +1,8 @@
 # YTPlusM
 <p align="center">
-<td><img src="Resources/IMG_5913.png" width="400"
+<td><img src="Resources/IMG_5913.png" width="700"
            
-<p align="center">       
+<p align="center">  
 The best fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
 
 <strong>This is the main repo, for pre-built IPAs and Debs. Updates will be published in Releases tab.</strong>
