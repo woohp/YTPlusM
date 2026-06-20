@@ -6,7 +6,7 @@
 
 <p><strong>THANK YOU ALL VERY MUCH FOR THE 150 STARS AND 100 FORKS🎉</strong></p>
 
-<strong>Updates will be published in my new Telegram channel, no more updates here 👉[LINK TO JOIN](https://t.me/YTPlusM_official)👈.</strong>
+<strong>Updates will be published in my new Telegram channel, no more updates here 👉[LINK TO JOIN](https://t.me/Mark02workshop_official)👈.</strong>
 
 <strong>Fork this repo to build yourself YTPlusM IPAs (with YTPlus from 5.1 to 5.2.1, no 5.2) without DRM Patreon subscription.
 Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and YTPlusM app using GitHub Actions](#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions) and [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)</strong>
