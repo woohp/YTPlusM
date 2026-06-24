@@ -63,6 +63,11 @@ on:
         required: true
         default: false
 
+      enable_ytpf:
+        type: boolean
+        required: true
+        default: false
+
       tweak_version:
         type: string
         required: false
@@ -223,6 +228,10 @@ jobs:
       - name: Clone YouGetCaption
         if: ${{ inputs.enable_YouGetCaption }}
         run: git clone --quiet --depth=1 https://github.com/PoomSmart/YouGetCaption.git
+
+      - name: Clone YTPlaybackFix
+        if: ${{ inputs.enable_ytpf }}
+        run: git clone --quiet --depth=1 https://github.com/Mark02-2012/YTPlaybackFix.git
         
       - name: Build YouPiP
         if: ${{ inputs.enable_youpip }}
@@ -307,6 +316,12 @@ jobs:
         run: |
           cd YouGetCaption && make clean package DEBUG=0 FINALPACKAGE=1
           mv packages/*.deb ../yougetcaption.deb
+
+      - name: Build YouGetCaption
+        if: ${{ inputs.enable_ytpf }}
+        run: |
+          cd YTPlaybackFix && make clean package FINALPACKAGE=1 THEOS_PACKAGE_SCHEME=rootless
+          mv packages/*.deb ../ytpf.deb
 
       - name: Clone Open in YouTube (Safari extension)
         run: |
