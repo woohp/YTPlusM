@@ -179,12 +179,13 @@ Added YouChooseQuality, YouShare and PleaseDontStopTheMusic + replaced YTLowCont
    <li><strong>YouTube Plus:</strong> <em>5.2 beta 4</em></li>
 </ul>  
 
+<strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use YTPlus 5.2.1 to build YTPlusM with newest yt versions⚠️</strong>
+
 <ul>
    <li><strong>Latest confirmed:</strong> <em>21.28.3</em></li>
    <li><strong>Date tested:</strong> <em>July 12, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>
-<strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use YTPlus 5.2.1 to build YTPlusM with newest yt versions⚠️</strong>
 
 ## Supported YouTube Version For iOS 15
 <ul>
