@@ -172,7 +172,7 @@ Created by myself and added YTPlaybackFix
 <li><strong>1.4 (July 12 2026):</strong></li>
 Added YouChooseQuality, YouShare and PleaseDontStopTheMusic + replaced YTLowContrastMode with my new fork of it where I added a setting section
 <li><strong>1.4.2 (July 17 2026):</strong></li>
-Updated YouTube Plus from 5.2.1 to 5.2.2; cracked by <a href="https://www.reddit.com/u/shinewake/s/ZeFbBOkUAa">zarzel and compiled the .deb by myself
+Updated YouTube Plus from 5.2.1 to 5.2.2; cracked by <a href="https://www.reddit.com/u/shinewake/s/ZeFbBOkUAa">zarzel</a> and compiled the .deb by myself
 
 ## Supported YouTube Version
 <ul>
